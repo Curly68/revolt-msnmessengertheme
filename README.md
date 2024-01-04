@@ -6,4 +6,5 @@ Also ultimately all rights to the original programs this program tries to do a t
 # notes
 This theme uses the Microsoft fonts "Tahoma", "Trebuchet MS" and "MS Sans Serif". Due to the risky implications of including them here, 
 you will have to get them on your own if they aren't installed on your computer to experience this theme like it was intended.
+
 I might make a version with fallback fonts soon.
