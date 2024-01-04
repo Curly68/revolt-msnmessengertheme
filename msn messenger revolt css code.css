@@ -1,0 +1,440 @@
+/* Made by SnugglyBun
+https://github.com/Curly68/revolt-msnmessengertheme */
+
+/* Avatar and Server Borders */
+
+:root {
+    --border-radius-user-icon: 20%
+    --border-radius-server-icon: 20%;
+
+    --border-radius-user-icon-active: 20%;
+    --border-radius-server-icon-active: 2px;
+
+    /* To disable this, replace "--accent" with "--tertiary-background" */
+    --border-active-color: var(--tertiary-background);
+}
+
+[class^="Image-sc-"],
+[class^="IconBase__ImageIconBase-sc-"] {
+	border-radius: 2px;
+        border-width: 2px;
+        border-style: outset;
+        border-color: #c5cfe3;
+}
+.avatar
+{
+	border-radius: 0px;
+        border-width: 2px;
+        border-style: outset;
+        border-color: #c5cfe3;
+}
+
+.bTjVNf
+{
+	border-radius: 0px;
+        border-width: 2px;
+        border-style: outset;
+        border-color: #c5cfe3;
+}
+
+.IconBase-sc-igncj4-0
+{
+	border-radius: 0px;
+        border-width: 2px;
+        border-style: outset;
+        border-color: #c5cfe3;
+}
+
+._item_1avxi_1
+{
+    font-family: "Tahoma";
+}
+
+.iuNJGz
+{
+  font-family: "Trebuchet MS"
+}
+.hIokec
+{
+  font-family: "Tahoma";
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-radius: 24px 8px 8px 24px;
+  border-style: outset;
+  border-color: #c5cfe3;
+  box-shadow: 10px 15px 20px #d5defb;
+  margin-bottom: 2px;
+}
+.hIokec summary
+{
+  font-family: "MS Sans Serif";
+  color: #fff;
+}
+._user_1avxi_23
+{
+  font-family: "MS Sans Serif"
+}
+.fEKFaQ
+{
+  background-image: linear-gradient(to bottom, #e68b2c 0%, #ffc73c 100%);
+  font-family: "MS Sans Serif"
+  border-width: 2px;
+  border-bottom-style: outset;
+  border-color: #919b9c;
+}
+.fPzJRX
+{
+  background-image: linear-gradient(to bottom, #e68b2c 0%, #ffc73c 100%);
+  font-family: "MS Sans Serif"
+  border-width: 2px;
+  border-bottom-style: outset;
+  border-color: #919b9c;
+}
+.iDeTmr
+{
+background-image: linear-gradient(to bottom,#d5defb, #f1f4fb, #f1f4fb);
+border-width: 2px;
+border-right-style: outset;
+border-color: #8596ca;
+}
+
+.jpVrhY
+{
+    background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+}
+
+.jpVrhY h3
+{
+    text-shadow: 5px 5px 6px #8cb0f8;
+}
+
+.eMqgHq
+{
+    background-image: linear-gradient(#3d95ff, #0055e5, #0144d0);
+    box-shadow: 12px 12px 10px #8cb0f8;
+    border-width: 4px;
+    border-right-style: outset;
+    border-bottom-style: outset;
+    border-color: #0731d8;
+    color: #ffffff;
+}
+
+.dUCGFk
+{
+   background-color: #ecf0f5;
+   border-width: 2px;
+   border-right-style: outset;
+   border-bottom-style: outset;
+   border-color: #8b9ccd;
+}
+
+.MemberList__ListCategory-sc-1bwlier-0
+{
+   background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+}
+
+.bSmCBu
+{
+  visibility: hidden;
+}
+._3LgFW
+{
+  font-family: "Tahoma";
+  --monospace-font: "Courier New"
+}
+.SidebarBase-sc-1dma6vq-0
+{
+  border-width: 2px;
+  border-radius: 0px;
+  border-left-style: outset;
+  border-color: #8b9ccd;
+}
+
+.JkpVA
+{
+  border-width: 2px;
+  border-right-style: outset;
+  border-color: #8b9ccd;
+}
+.jBEnry
+{
+  background-image: linear-gradient(#e9f6f8, #cae6ec, #e9f6f8);
+  border-width: 2px;
+  border-top-style: outset;
+  border-bottom-style: outset;
+  border-color: #8b9ccd;
+}
+
+.cCIViC
+{
+  font-family: "MS Sans Serif";
+  background-color: #a8c2ee;
+  color: #ffffff
+  border-width: 2px;
+  border-bottom-style: solid;
+  border-color: #8b9ccd;
+}
+.cJgFyc
+{
+  background-color: #ecf0f5;
+}
+.kpVPRw
+{
+  background-color: #fdfdfd;
+}
+
+._tabs_kup3j_69
+{
+  height: 10vh;
+}
+
+._profile_kup3j_21
+{
+  background: linear-gradient(to right, #0a246a, #a6caf0) padding-box,
+              linear-gradient(to right, #dbe5dc, #dbe5dc) border-box;
+  background-size: 100% 25%;
+  border-radius: 0em;
+  color: #ffffff;
+  border: 4px inset transparent;
+}
+
+._profile_kup3j_21._details_kup3j_33
+{
+  color: #ffffff;
+}
+
+._content_kup3j_90
+{
+    background-image: linear-gradient(to bottom, #d4d0c8 0%, #d4d0c8 100%);
+    border-width: 2px;
+    border-bottom-style: solid;
+    border-radius: 0px 0px 0px 0px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: #919b9c;
+}
+
+._attachment_197qa_1._audio_197qa_13
+{
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-radius: 20px 20px 20px 20px;
+  border-style: outset;
+  border-color: #8596ca;
+}
+._actions_iu4oa_1
+{
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+}
+._embed_dxa3n_1._website_dxa3n_12
+{
+background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+border-width: 2px;
+border-radius: 16px 16px 16px 16px;
+border-style: outset;
+border-color: #8596ca;
+}
+
+._entry_kup3j_140
+{
+  background-color: #d4d0c8;
+  border-width: 2px;
+  border-radius: 0px 0x 0px 0px;
+  border-style: outset;
+  border-color: #ffffff;
+}
+
+.jkmmZm textarea
+{
+  background-color: #fefefe;
+  border-width: 2px;
+  border-radius: 16px 16px 16px 16px;
+  border-style: outset;
+  border-color: #8596ca;
+}
+
+.fcjuaT
+{
+  font-family: "Trebuchet MS";
+  background-image: linear-gradient(to right, #0a246a 0%, #a6caf0 100%);
+  border-radius: 0px 0px 0px 0px;
+  border-width: 2px;
+  border-style: inset;
+  border-color: #8596ca;
+  --foreground: #fff;
+}
+
+.elkHIl
+{
+  font-family: "Tahoma";
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-style: outset;
+  border-color: #d4d0c8;
+}
+
+.fUHpBU
+{
+  background-image: linear-gradient(to right, #eeeeff 0%, #a8c2ee 100%);
+  border-width: 2px;
+  border-style: outset;
+  border-color: #8596ca;
+}
+
+.gafLvO
+{
+  background-image: linear-gradient(to right, #eeeeff 0%, #a8c2ee 100%);
+  border-width: 2px;
+  border-style: outset;
+  border-color: #8596ca;
+}
+
+.gILwrq div:only-child
+{
+  background-image: linear-gradient(to right, #c92d05 0%, #fef5ec 100%);
+}
+
+._normal_1avxi_16
+{
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-radius: 0px 0px 0px 0px;
+  border-style: inset;
+  border-color: #8396c3;
+}
+
+._user_1avxi_23
+{
+  background-color: #f2f5fb;
+  border-width: 2px;
+  border-radius: 0px 0px 0px 0px;
+  border-style: inset;
+  border-color: #8396c3;
+}
+
+.jAWgqa
+{
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+}
+
+.jKeKvP summary
+{
+ background-image: linear-gradient(to bottom, #cedaee 0%, #e2e7f2 100%);
+ border-width: 2px;
+ border-radius: 0px 0px 0px 0px;
+ border-top-style: outset;
+ border-bottom-style: outset;
+ border-color: #8396c3;
+}
+
+.bhyHfj
+{
+ background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+}
+
+.bhyHfj h2
+{
+  font-family: "Trebuchet MS";
+}
+
+.claKep
+{
+    background-image: linear-gradient(#3d95ff, #0055e5, #0144d0);
+    box-shadow: 12px 12px 10px #8cb0f8;
+    border-width: 4px;
+    border-right-style: outset;
+    border-bottom-style: outset;
+    border-color: #0731d8;
+    color: #ffffff;
+}
+._compact_1avxi_19
+{
+  font-family: "Trebuchet MS";
+}
+
+.context-menu
+{
+   background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+   border-width: 2px;
+   border-style: outset;
+   border-color: #8396c3;
+   font-family: "Tahoma";
+}
+
+.hchWUK
+{
+  font-family: "Tahoma";
+}
+
+.hchWUK button
+{
+   background-color: #d4d0c8;
+   border-width: 2px;
+   border-style: inset;
+   border-radius: 0px 0px 0px 0px;
+   border-color: #ffffff;
+   font-family: "Tahoma";
+}
+
+.dfqtRd
+{
+   color: #000000;
+}
+
+
+.fTrPfq
+{
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-radius: 16px 16px 16px 16px;
+  border-style: inset;
+  border-color: #c5cfe3;
+}
+
+.uZBqX
+{
+   background-color: #ffc83f;
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 0px 0px 0px 0px;
+   border-color: #8396c3;
+   font-family: "Tahoma";
+   color: #000;
+}
+
+.bQkbYV
+{
+   background-color: #f2f5fb;
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 0px 0px 0px 0px;
+   border-color: #8396c3;
+   font-family: "Tahoma";
+   color: #000;
+}
+
+.Search__SearchBase-sc-rl8cbc-0.fTrPfq a
+{
+  font-family: "Tahoma";
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-radius: 12px 8px 8px 12px;
+  border-style: outset;
+  border-color: #8596ca;
+  box-shadow: 10px 15px 5px #d5defb;
+}
+
+/* Thank you vlod for this one */
+.jyizw:not(:has(.iDeTmr)) .dUCGFk:has(.gaQhZQ) {
+    width: 400px;
+}
+
+._attachment_197qa_1._text_197qa_33 ._textContent_197qa_39
+{
+  font-family: "Tahoma";
+  background-color: #080808;
+  color: #ffffff;
+  border-width: 2px;
+  border-style: outset;
+  border-color: #8596ca;
+}
