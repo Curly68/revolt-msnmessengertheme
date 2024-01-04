@@ -1,6 +1,8 @@
 # revolt-msnmessengertheme
 Revolt Theme that tries to replicate the feel of older versions of MSN Messenger
 
+![Screenshot of this very theme in action, on the official Revolt server](https://raw.githubusercontent.com/Curly68/revolt-msnmessengertheme/main/Screenshot_20240104_100847.png)
+
 This is a hobby project of mine. It's not meant to be an accurate emulation of MSN Messenger or anything like that.
 Also ultimately all rights to the original programs this program tries to do a tribute to belong to their respective owners including Microsoft.
 # notes
