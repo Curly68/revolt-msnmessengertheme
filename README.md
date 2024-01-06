@@ -14,3 +14,17 @@ I might make a version with fallback fonts soon.
 Also this theme is meant for the current Revite client and will absolutely not work in the upcoming one, nor it will work in third party ones if they have their own CSS theming support.
 # installation
 To install this theme like every other Revolt theme, go to Settings and click the Appearance slider, scrolldown until you see "Theme Overrides". First copy the elements inside "msn messenger revolt full theme.txt" and then clcik the "Import a theme button to paste theme". This theme should work correctly.
+# version history
+1.1 
+
+- Tweaked the theme in many ways, for example fixing the padding of the fonts on the channel navigation pages
+- Channel and profile icons are now surrounded by boxes on the navigation bar
+- Overhauled how the welcome screen looks
+- Fixed some color contrast issues
+- Organized a bit of code
+- Made some sharp edges more rounder and gave them shadows
+- okfodfksdkfsdk
+
+1.0
+
+- Initial Release
