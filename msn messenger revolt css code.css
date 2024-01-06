@@ -65,16 +65,25 @@ https://github.com/Curly68/revolt-msnmessengertheme */
   box-shadow: 10px 15px 20px #d5defb;
   margin-bottom: 2px;
 }
+
 .hIokec summary
 {
   font-family: "MS Sans Serif";
   color: #fff;
+  padding-left: 11px;
 }
+
+.StyledIconBase-ea9ulj-0.bWRyML
+{
+fill: black;
+}
+
 ._user_1avxi_23
 {
   font-family: "MS Sans Serif"
 }
 .fEKFaQ
+
 {
   background-image: linear-gradient(to bottom, #e68b2c 0%, #ffc73c 100%);
   font-family: "MS Sans Serif"
@@ -82,6 +91,7 @@ https://github.com/Curly68/revolt-msnmessengertheme */
   border-bottom-style: outset;
   border-color: #919b9c;
 }
+
 .fPzJRX
 {
   background-image: linear-gradient(to bottom, #e68b2c 0%, #ffc73c 100%);
@@ -90,12 +100,13 @@ https://github.com/Curly68/revolt-msnmessengertheme */
   border-bottom-style: outset;
   border-color: #919b9c;
 }
-.iDeTmr
+.iDeT
+mr
 {
-background-image: linear-gradient(to bottom,#d5defb, #f1f4fb, #f1f4fb);
-border-width: 2px;
-border-right-style: outset;
-border-color: #8596ca;
+    background-image: linear-gradient(to bottom,#d5defb, #f1f4fb, #f1f4fb);
+    border-width: 2px;
+    border-right-style: outset;
+    border-color: #8596ca;
 }
 
 .jpVrhY
@@ -110,13 +121,24 @@ border-color: #8596ca;
 
 .eMqgHq
 {
-    background-image: linear-gradient(#3d95ff, #0055e5, #0144d0);
-    box-shadow: 12px 12px 10px #8cb0f8;
-    border-width: 4px;
-    border-right-style: outset;
-    border-bottom-style: outset;
-    border-color: #0731d8;
-    color: #ffffff;
+  font-family: "Tahoma";
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-radius: 12px 8px 8px 12px;
+  border-style: outset;
+  border-color: #8596ca;
+  box-shadow: 10px 15px 5px #d5defb;
+}
+
+.bQqZNf
+{
+  font-family: "Tahoma";
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 2px;
+  border-radius: 12px 8px 8px 12px;
+  border-style: outset;
+  border-color: #8596ca;
+  box-shadow: 10px 15px 5px #d5defb;
 }
 
 .dUCGFk
@@ -222,17 +244,19 @@ border-color: #8596ca;
   border-style: outset;
   border-color: #8596ca;
 }
+
 ._actions_iu4oa_1
 {
   background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
 }
+
 ._embed_dxa3n_1._website_dxa3n_12
 {
-background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
-border-width: 2px;
-border-radius: 16px 16px 16px 16px;
-border-style: outset;
-border-color: #8596ca;
+    background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+    border-width: 2px;
+    border-radius: 16px 16px 16px 16px;
+    border-style: outset;
+    border-color: #8596ca;
 }
 
 ._entry_kup3j_140
@@ -289,9 +313,28 @@ border-color: #8596ca;
   border-color: #8596ca;
 }
 
+._homeScreen_ag1so_6 h3 img
+{
+    filter: brightness(0) saturate(100%);
+}
+
 .gILwrq div:only-child
 {
   background-image: linear-gradient(to right, #c92d05 0%, #fef5ec 100%);
+}
+
+.gILwrq div
+{
+  color: #000;
+}
+
+.iIKZoW time
+{
+  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+  border-width: 1px;
+  border-radius: 4px 4px 4px 4px;
+  border-style: inset;
+  border-color: #8396c3;
 }
 
 ._normal_1avxi_16
@@ -307,9 +350,10 @@ border-color: #8596ca;
 {
   background-color: #f2f5fb;
   border-width: 2px;
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 12px 12px 8px 8px;
   border-style: inset;
   border-color: #8396c3;
+  box-shadow: 10px 15px 20px #d5defb;
 }
 
 .jAWgqa
@@ -413,23 +457,12 @@ border-color: #8596ca;
    color: #000;
 }
 
-.Search__SearchBase-sc-rl8cbc-0.fTrPfq a
-{
-  font-family: "Tahoma";
-  background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
-  border-width: 2px;
-  border-radius: 12px 8px 8px 12px;
-  border-style: outset;
-  border-color: #8596ca;
-  box-shadow: 10px 15px 5px #d5defb;
-}
-
 /* Thank you vlod for this one */
 .jyizw:not(:has(.iDeTmr)) .dUCGFk:has(.gaQhZQ) {
     width: 400px;
 }
 
-._attachment_197qa_1._text_197qa_33 ._textContent_197qa_39
+._attachment_197qa_1._text_197qa_33._textContent_197qa_39
 {
   font-family: "Tahoma";
   background-color: #080808;
@@ -437,4 +470,34 @@ border-color: #8596ca;
   border-width: 2px;
   border-style: outset;
   border-color: #8596ca;
+}
+
+.rbd-hidden-text-1-hidden-text-8
+{
+  font-family: "Tahoma";
+}
+
+.fmiwFh
+{
+    background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+    box-shadow: 0px 6px 8px #d5defb;
+    width: 48px;
+    height: 48px;
+    border-width: 2px;
+    border-radius: 12px 12px 12px 12px;
+    border-style: outset;
+    border-color: #8596ca;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 4px;
+}
+
+.cTcKPP
+{
+    background-image: linear-gradient(#d5defb, #f1f4fb, #f1f4fb);
+    box-shadow: 0px 6px 8px #d5defb;
+    border-width: 2px;
+    border-radius: 12px 12px 12px 12px;
+    border-style: outset;
+    border-color: #8596ca;
 }
